@@ -13,4 +13,5 @@ _IMPLIMENTATION OF DS PROGRAMMES_
   - STACK
   - Searches
   - Sorting
-  
+  - Graphs
+  - Trees
